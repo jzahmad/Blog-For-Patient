@@ -1,0 +1,21 @@
+/* 
+
+Author:     Suleman Malik  (A00441091)
+            Jazib Ahmed    (A00452355)
+            Kashif Chaudry (A00446369)
+            Gurmehar Singh (A00445785)
+
+CSS styling for the three blog pages.
+*/
+
+/* For the read-only text area */
+textarea {
+  align-items: center;
+  width: 95vw;
+  height: 90vh;
+  resize: none;
+}
+/* For the ambiance*/
+body {
+  background-color: #ad0000da;
+}
